@@ -105,5 +105,4 @@ class CategoryController extends Controller
             'data' => $data_search
         ]);
     }
-    
 }
